@@ -1,0 +1,6 @@
+# core dependencies 
+customtkinter>= 5.2.0  # Modren  UI library for Tkinter  
+requests>= 2.31.0  # HTTP library for making API request 
+pillow>= 10.0      # Image procassing library 
+sqlite3>= 2.6.0     # Lightweight database engine 
+ttkbootstrap>= 0.24.0 # Themed widget library for Tkinter
